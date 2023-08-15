@@ -1,4 +1,4 @@
 source components/common.sh
 
-CHECK_ROOT
-echo Install Payment Component
+COMPONENT=payment
+PYTHON

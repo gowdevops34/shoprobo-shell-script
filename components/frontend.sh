@@ -1,4 +1,7 @@
+#!/bin/bash
+
 source components/common.sh
 
-CHECK_ROOT
-echo Install Frontend Component
+COMPONENT=frontend
+NGINX
+
